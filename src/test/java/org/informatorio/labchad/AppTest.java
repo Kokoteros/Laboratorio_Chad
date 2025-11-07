@@ -1,4 +1,4 @@
-package org.informatorio.laboratoriochad;
+package org.informatorio.labchad;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
